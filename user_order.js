@@ -1,4 +1,3 @@
-
 function button_order_user() {
 	var order = document.querySelectorAll('.orders-mini');
 	var ads = document.querySelectorAll('.wrap__other');
